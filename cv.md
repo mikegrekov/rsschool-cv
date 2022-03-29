@@ -15,7 +15,6 @@ Basic knowledge that I have covers
 * SQL, 
 * Jira.
 <br />
-<br />
 
 ## Code sample
 <br />
