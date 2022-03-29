@@ -7,7 +7,6 @@
 ## About me
 I'm eager to study Javascript. My final objective is to get a job as a Junior Front-end Developer. I have no Front-end development experience but I am ready to work hard towards this ultimate goal.
 <br />
-<br />
 
 ## Skills
 I have no proven experience in programming languages yet. 
@@ -21,7 +20,6 @@ Basic knowledge that I have covers
 <br />
 
 ## Code sample
-
 <br />
 
 ``` JavaScript
