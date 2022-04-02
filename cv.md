@@ -1,9 +1,10 @@
 
-# Mikhail Grekov <img src=me.jpg width="30" height="33">
+# Mikhail Grekov
 ### Skype: magrekov
 ### Mobile: +375297471556
 ### Discord: Misha Grekou (@mikegrekov)
-# 
+
+---
 
 ## About me
 I'm eager to study Javascript. My final objective is to get a job as a Junior Front-end Developer. I have no Front-end development experience but I am ready to work hard towards this ultimate goal.
