@@ -30,7 +30,7 @@ for (let i=1; i<5; i++) {
 <br />
 
 ## Work experience
-  I have no jobs related to Javascript programming. I worked for a while as a 1C developer.
+  I have no jobs related to Javascript programming. I worked for a while as a 1C developer after university graduation.
 <br />
 <br />
 
