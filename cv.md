@@ -1,5 +1,6 @@
-# Mikhail Grekov
-### Skype: magrekov 
+
+# Mikhail Grekov <img src=me.jpg width="30" height="33">
+### Skype: magrekov
 ### Mobile: +375297471556
 ### Discord: Misha Grekou (@mikegrekov)
 # 
