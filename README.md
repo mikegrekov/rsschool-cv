@@ -1,2 +1,2 @@
-# rsschool-cv
-Mike_G RS School repository
+https://mikegrekov.github.io/rsschool-cv/cv
+https://mikegrekov.github.io/rsschool-cv/
