@@ -13,7 +13,7 @@
 * basic knowledge of Pascal and C++
 * some knowledge of Agile practices of process
 * some knowledge of GIT, VS Code
-## Code examples (no)
+## Code examples (no examples at the moment)
 ## No experience of working with JS
 ## Education
 * bachalor's degree in computer science
