@@ -20,77 +20,99 @@
  <!--navigation menu-->
         <nav class="nav">
             <ul class="nav-list">
-               <li class="nav-item"><a href="#Contacts" class="nav-link"></a>Contacts</li> 
-               <li class="nav-item"><a href="#Summary" class="nav-link"></a>Summary</li> 
-               <li class="nav-item"><a href="#My_echnical_skills" class="nav-link"></a>My technical skills</li>
-               <li class="nav-item"><a href="#Code" class="nav-link"></a>Code</li>
-               <li class="nav-item"><a href="#Courses" class="nav-link"></a>Courses</li>
-               <li class="nav-item"><a href="#Projects" class="nav-link"></a>Projects</li>
-               <li class="nav-item"><a href="#Education" class="nav-link"></a>Education</li>
-               <li class="nav-item"><a href="#Languages" class="nav-link"></a>Languages</li>
+               <li class="nav-item"><a href="#Contacts" class="nav-link">Contacts</a></li> 
+               <li class="nav-item"><a href="#Summary" class="nav-link">Summary</a></li> 
+               <li class="nav-item"><a href="#My_technical_skills" class="nav-link">My technical skills</a</li>
+               <li class="nav-item"><a href="#Code" class="nav-link">Code</a></li>
+               <li class="nav-item"><a href="#Courses" class="nav-link">Courses</a></li>
+               <li class="nav-item"><a href="#Projects" class="nav-link">Projects</a></li>
+               <li class="nav-item"><a href="#Education" class="nav-link">Education</a></li>
+               <li class="nav-item"><a href="#Languages" class="nav-link">Languages</a></li>
             </ul>
         </nav>
     </header>
     
-    <main class="main-cv">
+    <main class="main-container">
         <div class="container"></div>
+<!--my name-->        
+        <section class="section section-profile">
+            <img class="profile-photo" src="assets/img/picacho.png" alt="Picacho">
+            <div class="name-title">
+                <h1 class="section-title profile-name">Misha Grekou</h1>
+                <p>JS Course student</p>
+            </div>
+        </section>
 
-        <h1 class="h1-header">Misha Grekou</h1>
-        <p>JS Course student</p>
-        <img src="assets/img/picacho.png" alt="Picacho">
- <!--contacts-->       
-        <h2 class="section">Contacts</h2>
-        <ul class="section-list">
-            <li class="list-item">Mobile +375 297471556</li>
-            <li class="list-item">Discord Misha_G</li>
-            <li class="list-item">Email svg200914@gmail.com</li>
-        </ul>
- <!--summary-->       
-        <h2 class="section">Summary</h2>
-        <p>Very dedicated and curious person , who wants to successfully complete RS School  JS Stage 0 course . My objectives are listed below:</p>
-        <ul class="section-list">
-            <li class="list-item">To finish successfully training JS Stage 0</li>
-            <li class="list-item">to become aware about basic practices of software development and reasonably professional with the dev tools</li>
-        </ul>
-
+ <!--contacts-->  
+        <section class="section" id="Contacts">
+            <h2 class="section-title">Contacts</h2>
+            <ul class="section-list">
+                <li class="list-item">Mobile +375 297471556</li>
+                <li class="list-item">Discord Misha_G</li>
+                <li class="list-item">Email svg200914@gmail.com</li>
+            </ul>
+        </section>    
+ <!--summary-->
+        <section class="section"  id="Summary">      
+            <h2 class="section-title">Summary</h2>
+            <p>Very dedicated and curious person , who wants to successfully complete RS School  JS Stage 0 course . My objectives are listed below:</p>
+            <ul class="section-list">
+                <li class="list-item">To finish successfully training JS Stage 0</li>
+                <li class="list-item">to become aware about basic practices of software development and reasonably professional with the dev tools</li>
+            </ul>
+        </section> 
 <!--My technical skills-->       
-        <h2 class="section">My technical skills</h2>
-        <ul class="section-list">
-            <li class="list-item">Basic knowledge of MS-SQL, Visual Basic, Pascal and C++</li>
-            <li class="list-item">Some knowledge of Agile practices of process</li>
-            <li class="list-item">Some knowledge of GIT, VS Code</li>
-        </ul> 
+        <section class="section" id="My_technical_skills">
+            <h2 class="section-title">My technical skills</h2>
+            <ul class="section-list">
+                <li class="list-item">Basic knowledge of MS-SQL, Visual Basic, Pascal and C++</li>
+                <li class="list-item">Some knowledge of Agile practices of process</li>
+                <li class="list-item">Some knowledge of GIT, VS Code</li>
+            </ul> 
+        </section>   
         
  <!--Code-->       
-        <h2 class="section">Code</h2>   
+        <section class="section" id="Code">
+            <h2 class="section-title">Code</h2>  
+            <pre class="pre"><code>
+let i = 0;
+let text = "";                
+for (;i < 10;) {text += i + "<br>";i++;};
+            </code></pre> 
+        </section>
         
-<!--Courses-->       
-        <h2 class="section">Courses</h2>
-        <ul class="section-list">
-            <li class="list-item">JS/FE Preschool 2023 Q2</li>
-            <li class="list-item">Project management in software development 2019</li>
-        </ul>       
+<!--Courses--> 
+        <section class="section" id="Courses">  
+            <h2 class="section-title">Courses</h2>
+            <ul class="section-list">
+                <li class="list-item">JS/FE Preschool 2023 Q2</li>
+                <li class="list-item">Project management in software development 2019</li>
+            </ul>       
+        </section>  
+<!--Projects-->  
+        <section class="section" id="Projects">
+            <h2 class="section-title" >Projects</h2>
+            <ul class="section-list">
+                <li class="list-item"><a href="" class="link">CV Markdown project</a></li>
+            </ul>  
+        </section>
+<!--Education-->   
+        <section class="section"  id="Education">
+            <h2 class="section-title">Education</h2>
+            <ul class="section-list">
+                <li class="list-item">Bachelor's degree in computer science</li>
+                <li class="list-item">Bachelor's degree in economics</li>
+            </ul>  
+        </section>    
 
-<!--Projects-->       
-        <h2 class="section">Projects</h2>
-        <ul class="section-list">
-            <li class="list-item">CV Markdown project</li>
-        </ul>  
-
-<!--Education-->       
-        <h2 class="section">Education</h2>
-        <ul class="section-list">
-            <li class="list-item">Bachelor's degree in computer science</li>
-            <li class="list-item">Bachelor's degree in economics</li>
-        </ul>  
-
-<!--Languages-->       
-        <h2 class="section">Languages</h2>
-        <ul class="section-list">
-            <li class="list-item">English (B1)</li>
-            <li class="list-item">Portuguese (A2), French (A2)</li>
-        </ul>  
-
+<!--Languages-->
+        <section class="section" id="Languages">
+            <h2 class="section-title">Languages</h2>
+            <ul class="section-list">
+                <li class="list-item">English (B1)</li>
+                <li class="list-item">Portuguese (A2), French (A2)</li>
+            </ul>  
+        </section>
 <!--closing of main tag-->
     </main>
     
