@@ -83,3 +83,25 @@
   .link:hover {
     color: orange;
   }
+
+  .footer {
+    background-color: rgb(236, 218, 184);
+    padding: 10px;
+    line-height: 50px;
+  }
+
+  .header {
+    background-color: rgb(236, 218, 184);
+  }
+
+  .footer-elements {
+    display: flex;
+    justify-content: space-between;
+    border: solid none;
+    align-items: center;
+  }
+
+  .rss-link {
+    width: 121px;
+    height: 45px;
+  }
