@@ -2,7 +2,7 @@
 ## Contacts
 * Mobile +375 297471556
 * Discord Misha_G
-* Email svg200914@gmail.com
+* Email svg2009__@gmail.com
 ## My objectives
 * to finish successfully training JS Stage 0
 * to become aware about basic practices of software development
